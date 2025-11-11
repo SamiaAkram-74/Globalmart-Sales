@@ -1,5 +1,5 @@
 # Globalmart-Sales
-1. Load & Inspect Data: Import the dataset (globalmart_sales.csv). Check for missing
+1. Load & Inspect Data: Import the dataset. Check for missing
 values, data types, and outliers.
 2. Clean the Data: Handle missing values, duplicates, and inconsistent formatting.
 3. Analyze & Visualize:
