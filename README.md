@@ -119,7 +119,7 @@ docker run -p 8000:8000 ml-api
 
 # Test API in browser or Postman
 http://127.0.0.1:8000/
-http://127.0.0.1:8000/predict
+http://127.0.0.1:8000/docs
 ```
 
 ### **Run Streamlit UI**
@@ -146,6 +146,6 @@ streamlit run streamlit_app.py
 * **Visualization:** `matplotlib`, `seaborn`
 * **API & Deployment:** `FastAPI`, `Uvicorn`, `Docker`
 * **UI Demo:** `Streamlit`
-* **Automation:** `joblib`, `schedule`, `sqlalchemy`
+* **Automation:** `joblib`, `schedule`
 
 
